@@ -10,8 +10,8 @@ stu,vwx,yza []
 
 */
 
-const str = `abc,def,ghi 
-jkl,mno,pqr 
+const str = `abc,def,ghi
+jkl,mno,pqr
 stu,vwx,yza`;
 
 let parseString = str.split("\n").map(val=> val.split(","));
