@@ -19,8 +19,8 @@ console.log(parseString);
 
 // o/p : 
 // [
-//   [ 'abc', 'def', 'ghi ' ],
-//   [ 'jkl', 'mno', 'pqr ' ],
+//   [ 'abc', 'def', 'ghi' ],
+//   [ 'jkl', 'mno', 'pqr' ],
 //   [ 'stu', 'vwx', 'yza' ]
 // ]
 
